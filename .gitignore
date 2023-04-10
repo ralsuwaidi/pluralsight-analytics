@@ -1,0 +1,5 @@
+.DS_Store
+.env
+data
+models/__init__.py
+api/__init__.py
